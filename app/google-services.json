@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "702138249630",
+    "firebase_url": "https://parcialdosjerryminotta.firebaseio.com",
+    "project_id": "parcialdosjerryminotta",
+    "storage_bucket": "parcialdosjerryminotta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702138249630:android:61a6208d8fb5f04c",
+        "android_client_info": {
+          "package_name": "developer.minotta.parcialdos_jerryminotta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702138249630-vu77mqq2t1luaa24ndb4i8q5i8hlc92r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developer.minotta.parcialdos_jerryminotta",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "702138249630-oqi2ptu7tgqcetl9llhlla4tfiqggalb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYsni-zrWjwWno8oBgugeC3WFSi8YSqoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702138249630-oqi2ptu7tgqcetl9llhlla4tfiqggalb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
